@@ -18,6 +18,8 @@ Simply create a PR to add information that you might have.
 
 This README is not meant to be a factual guide. Being based on anonymous feedback and information, it is likely to be wrong. The only way to be 100% sure is to contact the company and actually confirm this.
 
+## Data
+
 | Company  | Does it Sponsor GC? | Conditions |
 | ------------- | ------------- | ------------- |
 | Schlumberger  | No  | |
